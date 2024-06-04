@@ -1,5 +1,4 @@
 # 24001118-synrgy7-ars-bcr-ch5
-# 24001118-synrgy7-ars-bcr-ch5
 ## CHALLENGE 5 RESTFUL API FSW 2 ARSY MUHAMMAD IQBAL
 
 ### INSTRUCTION
